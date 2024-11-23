@@ -4,7 +4,7 @@
   <h3>안녕하세요! 백엔드 개발자 정정은입니다.</h3>
   <p>아직은 병아리 개발자로 많이 공부하고 배워야 하는 단계이지만, <br>
     개발자라고 당당하게 말할 수 있는 단계가 될 수 있도록 노력하겠습니다. 🐣</p>
-  <p>🅱️ https://j-jeongeun.github.io</p>
+  <p>🅱️ https://jejeongeun.tistory.com</p>
   <p>Ⓜ️ jejeong88@gmail.com</p>
 </div>
 
@@ -23,12 +23,18 @@
 <div>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>
 </div>
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
 </div>
 
 ---
